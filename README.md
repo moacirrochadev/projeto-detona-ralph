@@ -4,11 +4,11 @@
 
 O Jogo foi desenvolvido para o Bootcamp de Desenvolvimento de Jogos, da DIO, utilizando HTML, CSS e JavaScript.
 
->Design é função, não forma.
+> :memo: **Note:** Design é função, não forma.
 >Steve Jobs
 
-Contato:
+📧 Contato:
 
-[LinkedIn](https://www.linkedin.com/in/moacirrochadev/)
+🔗 [LinkedIn](https://www.linkedin.com/in/moacirrochadev/)
 
-[Instagram](https://www.instagram.com/moacirroneto/)
+🔗 [Instagram](https://www.instagram.com/moacirroneto/)
